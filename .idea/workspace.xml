@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b2bab669-0250-4e3b-b789-f9ba56a8d324" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/query-dsl">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/query-dsl">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="other" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="runtimeClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="query-dsl" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gII05oxLu4GSDfbuCc1sMQpv8F" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35764375" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lee.study.querydsl.entity" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\devtools\Apache-Subversion-1.14.0\query-dsl\query-dsl\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QueryDslBasicTests.search">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberTest.testEntity" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="query-dsl.query-dsl.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.study.querydsl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lee.study.querydsl.entity" />
+      <option name="MAIN_CLASS_NAME" value="lee.study.querydsl.entity.MemberTest" />
+      <option name="METHOD_NAME" value="testEntity" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDslApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="query-dsl.query-dsl.test~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.study.querydsl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lee.study.querydsl" />
+      <option name="MAIN_CLASS_NAME" value="lee.study.querydsl.QueryDslApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDslBasicTests.search" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="query-dsl.query-dsl.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.study.querydsl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lee.study.querydsl" />
+      <option name="MAIN_CLASS_NAME" value="lee.study.querydsl.QueryDslBasicTests" />
+      <option name="METHOD_NAME" value="search" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDslBasicTests.startJPQL" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="query-dsl.query-dsl.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.study.querydsl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lee.study.querydsl" />
+      <option name="MAIN_CLASS_NAME" value="lee.study.querydsl.QueryDslBasicTests" />
+      <option name="METHOD_NAME" value="startJPQL" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDslBasicTests.startQuerydsl" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="query-dsl.query-dsl.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lee.study.querydsl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lee.study.querydsl" />
+      <option name="MAIN_CLASS_NAME" value="lee.study.querydsl.QueryDslBasicTests" />
+      <option name="METHOD_NAME" value="startQuerydsl" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryDslApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="query-dsl.query-dsl.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="lee.study.querydsl.QueryDslApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QueryDslBasicTests.search" />
+        <item itemvalue="JUnit.QueryDslBasicTests.startQuerydsl" />
+        <item itemvalue="JUnit.QueryDslBasicTests.startJPQL" />
+        <item itemvalue="JUnit.MemberTest.testEntity" />
+        <item itemvalue="JUnit.QueryDslApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\ICTUSER\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2bab669-0250-4e3b-b789-f9ba56a8d324" name="Default Changelist" comment="" />
+      <created>1597795454104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597795454104</updated>
+      <workItem from="1597795455175" duration="703000" />
+      <workItem from="1597796173362" duration="3052000" />
+      <workItem from="1597799250091" duration="4017000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1275" y="409" key="#Assign_Data_Sources" timestamp="1597799474952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1275" y="409" key="#Assign_Data_Sources/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799474952" />
+    <state x="886" y="250" key="FileChooserDialogImpl" timestamp="1597795842342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="886" y="250" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597795842342" />
+    <state width="1108" height="418" key="GridCell.Tab.0.bottom" timestamp="1597801714426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="418" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597801714426" />
+    <state width="1108" height="418" key="GridCell.Tab.0.center" timestamp="1597801714426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="418" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597801714426" />
+    <state width="1108" height="418" key="GridCell.Tab.0.left" timestamp="1597801714426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="418" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597801714426" />
+    <state width="1108" height="418" key="GridCell.Tab.0.right" timestamp="1597801714426">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1108" height="418" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597801714426" />
+    <state width="1111" height="279" key="GridCell.Tab.1.bottom" timestamp="1597799228296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="279" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799228296" />
+    <state width="1111" height="279" key="GridCell.Tab.1.center" timestamp="1597799228296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="279" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799228296" />
+    <state width="1111" height="279" key="GridCell.Tab.1.left" timestamp="1597799228296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="279" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799228296" />
+    <state width="1111" height="279" key="GridCell.Tab.1.right" timestamp="1597799228296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1111" height="279" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799228296" />
+    <state x="607" y="154" key="SettingsEditor" timestamp="1597796431778">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="607" y="154" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597796431778" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1597796293990">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597796293990" />
+    <state x="988" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1597801697523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="149" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597801697523" />
+    <state x="1148" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1597799807173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1148" y="226" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597799807173" />
+    <state x="997" y="244" width="672" height="677" key="run.anything.popup" timestamp="1597797504265">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="997" y="244" width="672" height="677" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597797504265" />
+    <state x="1040" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1597798819169">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1040" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1597798819169" />
+  </component>
+</project>
